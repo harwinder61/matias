@@ -39,7 +39,7 @@ const Dashboard = (props) => {
       <div className=" dashboard-container w-100 bg-main">
         <Container fluid={true}>
           <Row>
-            <Col className="text-right py-2 main-header">Aclaro PowerApp</Col>
+            <Col className="text-right py-2 main-header">Aclaro Matias</Col>
           </Row>
           <div className="buttons-row">
             <Row >

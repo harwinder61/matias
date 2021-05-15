@@ -12,7 +12,7 @@ const Header = ({ pathName, path, handleSubmit, handleSearch, headerLabel, enabl
     return (
         <>
             <Row>
-                <Col className="text-right py-2 main-header">Aclaro PowerApp</Col>
+                <Col className="text-right py-2 main-header">Aclaro Matias</Col>
             </Row>
             {enableSearch ? (
                 <div className="buttons-row">
